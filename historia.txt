@@ -2,6 +2,6 @@ Este es el primer repo de Victor Muchica
 
 Tengo 40 años y naci en Peru
 
-Mi clon vmuchica tiene 39 años
+Mi clon vmuchica tiene 39 años, estoy contribuyendo al proyecto
 
 Mañana nos enfocaremos en su vida laboral
